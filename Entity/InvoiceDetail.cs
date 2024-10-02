@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entity
 {
-    internal class InvoiceDetail
+    public class InvoiceDetail
     {
         public  int detailid {  get; set; }
 

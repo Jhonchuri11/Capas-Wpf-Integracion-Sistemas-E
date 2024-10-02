@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entity
 {
-    internal class Customer
+    public class Customer
     {
 
         public int customerid { get; set; }
